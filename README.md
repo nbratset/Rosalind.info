@@ -6,4 +6,4 @@ As I work through these problems, I both wanted to practice Python (with a bioin
 
 I hope you find this informational and helpful!
 
-*Also, please don't use these solutions without contacting me.*
+*Also, please don't use these solutions without permission.*a
